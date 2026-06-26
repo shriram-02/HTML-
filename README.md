@@ -78,16 +78,41 @@ Focused on semantic markup, accessibility, and modern web standards
 
 <hr>
 
-<h2 align="center">📣 Connect with Me</h2>
 
-<div align="center">
+<h3>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 🤝</h3>
 
-<a href="https://github.com/shriram7057"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/shriram-lahane/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://leetcode.com/u/shriram_lahane/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-<a href="https://www.geeksforgeeks.org/user/lahaneshr7f7/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+<p>
+  <a href="https://github.com/shriram-02">
+    <img src="https://skillicons.dev/icons?i=github" height="32" width="32"/>
+  </a>
 
-</div>
+  <a href="https://www.linkedin.com/in/shriram-lahane-12b692385/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" width="32"/>
+  </a>
+  <a href="https://leetcode.com/u/shriram_lahane/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" width="32"/>
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/shriram01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32" width="32"/>
+  </a>
+    <a href="https://www.hackerrank.com/profile/lahaneshriram2">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32" width="32"/>
+  </a>
+  <a href="https://kaggle.com/shriramlahane">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="32" width="32"/>
+  </a>
+
+  <a href="https://instagram.com/pvt.shree_01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" width="32"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/shriram_79991" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="32" width="32"/>
+  </a>
+
+
 
 <p align="center"><strong>Happy Coding 🚀</strong></p>
 
